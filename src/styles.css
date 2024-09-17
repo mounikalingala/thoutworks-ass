@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #b4dbd5;
+  background-size: cover;
+  margin: 0;
+  padding: 20px;
+  padding-top: 35px;
+}
+.searchContainer {
+  padding: 20px;
+}
+.search {
+  outline: none;
+  border-radius: 5px;
+}
+.name {
+  font-size: 50px;
+}
